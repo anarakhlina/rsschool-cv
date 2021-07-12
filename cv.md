@@ -10,3 +10,27 @@ various circumstances, absorb new ideas and communicate clearly and effectively.
 `2018-2022`
 **BELARUSSIAN STATE UNIVERSITY, Faculty of Applied Mathematics and Computer Science**
 **Bachelor's degree in Computer Security**
+
+## Skills
+
+### Programming Languages
+* C++
+* Python
+* Java
+* R
+* JavaScript
+
+### RDBMS
+* MySQL
+
+### Industry Knowledge
+* Statistics
+* Data Science
+  - [ML INTRO 2021Q1 (DATA SCIENCE), The Rolling Scopes School](https://app.rs.school/certificate/an380lt5)
+* Information Security
+
+### Languages
+* Russian 
+  - Native Speaker
+* English
+  - C1
