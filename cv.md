@@ -23,6 +23,9 @@ various circumstances, absorb new ideas and communicate clearly and effectively.
 ### RDBMS
 * MySQL
 
+### Version Control Systems
+* GitHub
+
 ### Industry Knowledge
 * Statistics
 * Data Science
@@ -34,3 +37,23 @@ various circumstances, absorb new ideas and communicate clearly and effectively.
   - Native Speaker
 * English
   - C1
+
+## Code Examples
+
+### JavaScript
+
+```javascript
+const Web3 = require('web3');
+let web3 = new Web3(Web3.givenProvider || "ws://localhost:8545");
+const promise1 = new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve('foo');
+    }, 300);
+  });
+  
+  promise1.then((value) => {
+    console.log(value);
+  });
+  
+  console.log(promise1);
+```
