@@ -1,10 +1,7 @@
 # Anna Rachlina
-**Minsk, Belarus** | <ann.raxlin@gmail.com> | [LinkedIn](https://www.linkedin.com/in/ann-rachlina-684551185/)
+**Minsk, Belarus** | <ann.raxlin@gmail.com> | [LinkedIn](https://www.linkedin.com/in/ann-rachlina-684551185/) | Telegram: @anarakhlina
 
-I'm a 3rd year student at BSU currently seeking employment. Despite being acquainted with head 
-principles of OOP and algorithms and computer structures, I have advanced English skills and have 
-worked with MySQL and Git. I'm a quick learner with critical thinking who can quickly adopt to 
-various circumstances, absorb new ideas and communicate clearly and effectively.
+Throughout my four years at Belarussian State University, I developed great problem solving skills and obtained knowledge in computer science and mathematics. I have strong command of programming languages like C++, HTML, JavaScript, React, Python and SQL and continue to expand my coding experience by taking courses in my free time. My passion towards JavaScript led me to studying React, so I started working as a React Frontend Developer, where I gained some considerable work experience, ability to work well in a team and great communication skills.
 
 ## Education
 `2018-2022`
@@ -12,18 +9,17 @@ various circumstances, absorb new ideas and communicate clearly and effectively.
 **Bachelor's degree in Computer Security**
 
 ## Skills
-
-### Programming Languages
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React.js
+* Redux (Redux Toolkit)
 * C++
 * Python
 * Java
 * R
-* JavaScript
-
-### RDBMS
-* MySQL
-
-### Version Control Systems
+* SQL
 * GitHub
 
 ### Industry Knowledge
@@ -57,3 +53,13 @@ const promise1 = new Promise((resolve, reject) => {
   
   console.log(promise1);
 ```
+## Work Experience
+
+* Freelance Frontend Developer (May 2021 - June 2021): Website development for a beauty salon.
+  - HTML, CSS, JavaScript
+
+* JavaScript Developer (June 2021 - Aug 2021): Telegram crypto bot development.
+  - JavaScript, Node.js
+
+* React Frontend Developer (Oct 2021 - now): Websites and widgets development for a project.
+  - React, JavaScript, Redux, TypeScript, Ionic React
